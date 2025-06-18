@@ -1,0 +1,111 @@
+services:
+  mongo:
+    image: mongo:latest 
+    container_name: firetv-mongodb
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: firetv
+      MONGO_INITDB_ROOT_PASSWORD: password
+      MONGO_INITDB_DATABASE: firetv-content
+    volumes:
+      - mongodb_data:/data/db
+    ports:
+      - "27017:27017"
+    networks:
+      - tyk
+
+  mongo-express:
+    image: mongo-express
+    container_name: firetv-mongodb_express
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: firetv
+      ME_CONFIG_MONGODB_ADMINPASSWORD: password
+      ME_CONFIG_MONGODB_SERVER: firetv-mongodb
+    ports:
+      - "8081:8081"
+    depends_on:
+      - mongo
+    networks:
+      - tyk
+
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.2.15
+    container_name: firetv-zookeeper
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+    ports:
+      - "2181:2181"
+    networks:
+      - tyk 
+
+  kafka:
+    image: confluentinc/cp-kafka:7.2.15
+    container_name: firetv-kafka
+    depends_on:
+      - zookeeper
+    ports:
+      - "9092:9092"
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://localhost:9092
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: 'true'
+    networks:
+      - tyk 
+
+  tyk-gateway:
+    image: docker.tyk.io/tyk-gateway/tyk-gateway:v5.5.0
+    ports:
+      - 8080:8080
+    networks:
+      - tyk
+    volumes:
+      - ./tyk/tyk.standalone.conf:/opt/tyk-gateway/tyk.conf
+      - ./tyk/apps:/opt/tyk-gateway/apps
+      - ./tyk/middleware:/opt/tyk-gateway/middleware
+      - ./tyk/certs:/opt/tyk-gateway/certs
+      - ./tyk/policies:/opt/tyk-gateway/policies
+    environment:
+      - TYK_GW_SECRET=foo
+    depends_on:
+      - tyk-redis
+      - content-aggregation
+
+  tyk-redis:
+    image: redis:6.2.7-alpine
+    networks:
+      - tyk
+    ports:
+      - 6379:6379
+
+  postgresql:
+    image: postgres:latest
+    container_name: firetv-postgresql
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_PASSWORD: foo
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - tyk
+
+  content-aggregation:
+    build: ./microservices/content_aggregation
+    environment:
+      MONGO_URL: mongodb://firetv:password@firetv-mongodb:27017
+    ports:
+      - "3001:3001"
+    depends_on:
+      - mongo
+    networks:
+      - tyk
+
+
+volumes:
+  postgres_data:
+  mongodb_data:
+
+networks:
+  tyk:

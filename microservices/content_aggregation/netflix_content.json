@@ -1,0 +1,1193 @@
+{
+  "content": [
+    {
+      "id": "tmdb_movie_1233413",
+      "title": "Sinners",
+      "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "rating": 7.6,
+      "vote_count": 1412,
+      "popularity": 298.7,
+      "release_date": "2025-04-16",
+      "runtime": 138,
+      "genres": [
+        "horror",
+        "thriller"
+      ],
+      "original_language": "en",
+      "production_countries": [
+        "US"
+      ],
+      "budget": 90000000,
+      "revenue": 357628506,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zrYk9fEhhnNTptnhFeyyFIUBu5d.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/zrYk9fEhhnNTptnhFeyyFIUBu5d.jpg",
+      "type": "movie",
+      "mood_tags": [
+        "scary",
+        "edge-of-seat",
+        "suspenseful"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_movie_284053",
+      "title": "Thor: Ragnarok",
+      "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+      "rating": 7.6,
+      "vote_count": 21172,
+      "popularity": 76.9,
+      "release_date": "2017-10-02",
+      "runtime": 131,
+      "genres": [
+        "action",
+        "adventure",
+        "science fiction"
+      ],
+      "original_language": "en",
+      "production_countries": [
+        "US"
+      ],
+      "budget": 180000000,
+      "revenue": 855301806,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "type": "movie",
+      "mood_tags": [
+        "adventurous",
+        "thrilling",
+        "exciting"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_movie_11544",
+      "title": "Lilo & Stitch",
+      "overview": "As Stitch, a runaway genetic experiment from a faraway planet, wreaks havoc on the Hawaiian Islands, he becomes the mischievous adopted alien \"puppy\" of an independent little girl named Lilo and learns about loyalty, friendship, and ʻohana, the Hawaiian tradition of family.",
+      "rating": 7.6,
+      "vote_count": 6613,
+      "popularity": 78.4,
+      "release_date": "2002-06-21",
+      "runtime": 85,
+      "genres": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "original_language": "en",
+      "production_countries": [
+        "US"
+      ],
+      "budget": 80000000,
+      "revenue": 273144151,
+      "poster_url": "https://image.tmdb.org/t/p/w500/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/aIglP9Z5gtkQf7Fidb4NRv2gfDj.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg",
+      "type": "movie",
+      "mood_tags": [
+        "wholesome",
+        "imaginative",
+        "feel-good"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_movie_283995",
+      "title": "Guardians of the Galaxy Vol. 2",
+      "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+      "rating": 7.6,
+      "vote_count": 22018,
+      "popularity": 57.3,
+      "release_date": "2017-04-19",
+      "runtime": 137,
+      "genres": [
+        "science fiction",
+        "adventure",
+        "action"
+      ],
+      "original_language": "en",
+      "production_countries": [
+        "US"
+      ],
+      "budget": 200000000,
+      "revenue": 863756051,
+      "poster_url": "https://image.tmdb.org/t/p/w500/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+      "type": "movie",
+      "mood_tags": [
+        "adventurous",
+        "thrilling",
+        "exciting"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_movie_11",
+      "title": "Star Wars",
+      "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+      "rating": 8.2,
+      "vote_count": 21214,
+      "popularity": 70.4,
+      "release_date": "1977-05-25",
+      "runtime": 121,
+      "genres": [
+        "adventure",
+        "action",
+        "science fiction"
+      ],
+      "original_language": "en",
+      "production_countries": [
+        "US"
+      ],
+      "budget": 11000000,
+      "revenue": 775398007,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2w4xG178RpB4MDAIfTkqAuSJzec.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "type": "movie",
+      "mood_tags": [
+        "adventurous",
+        "thrilling",
+        "exciting"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_movie_1010581",
+      "title": "My Fault",
+      "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+      "rating": 7.8,
+      "vote_count": 3708,
+      "popularity": 70.2,
+      "release_date": "2023-06-08",
+      "runtime": 117,
+      "genres": [
+        "romance",
+        "drama"
+      ],
+      "original_language": "es",
+      "production_countries": [
+        "ES"
+      ],
+      "budget": 0,
+      "revenue": 0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/oz4U9eA6ilYf1tyiVuGmkftdLac.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+      "type": "movie",
+      "mood_tags": [
+        "emotional",
+        "romantic",
+        "heartwarming"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_movie_10191",
+      "title": "How to Train Your Dragon",
+      "overview": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.",
+      "rating": 7.8,
+      "vote_count": 13468,
+      "popularity": 67.0,
+      "release_date": "2010-03-18",
+      "runtime": 98,
+      "genres": [
+        "fantasy",
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "original_language": "en",
+      "production_countries": [
+        "US"
+      ],
+      "budget": 165000000,
+      "revenue": 494879471,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
+      "type": "movie",
+      "mood_tags": [
+        "adventurous",
+        "wholesome",
+        "imaginative"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_movie_939243",
+      "title": "Sonic the Hedgehog 3",
+      "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+      "rating": 7.7,
+      "vote_count": 2675,
+      "popularity": 59.3,
+      "release_date": "2024-12-19",
+      "runtime": 110,
+      "genres": [
+        "action",
+        "science fiction",
+        "comedy",
+        "family"
+      ],
+      "original_language": "en",
+      "production_countries": [
+        "US",
+        "JP"
+      ],
+      "budget": 122000000,
+      "revenue": 492162604,
+      "poster_url": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+      "type": "movie",
+      "mood_tags": [
+        "intense",
+        "lighthearted",
+        "feel-good"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_movie_238",
+      "title": "The Godfather",
+      "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "rating": 8.7,
+      "vote_count": 21524,
+      "popularity": 55.8,
+      "release_date": "1972-03-14",
+      "runtime": 175,
+      "genres": [
+        "drama",
+        "crime"
+      ],
+      "original_language": "en",
+      "production_countries": [],
+      "budget": 6000000,
+      "revenue": 245066411,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "type": "movie",
+      "mood_tags": [
+        "gritty",
+        "emotional",
+        "intense"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_2734",
+      "title": "Law & Order: Special Victims Unit",
+      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+      "rating": 7.9,
+      "vote_count": 3967,
+      "popularity": 634.0,
+      "first_air_date": "1999-09-20",
+      "last_air_date": "2025-05-15",
+      "number_of_seasons": 26,
+      "number_of_episodes": 573,
+      "episode_runtime": 43,
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "NBC"
+      ],
+      "status": "Returning Series",
+      "poster_url": "https://image.tmdb.org/t/p/w500/abWOCrIo7bbAORxcQyOFNJdnnmR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/oRdc2nn7jLOYy4fBdvmFKPsKzZE.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/abWOCrIo7bbAORxcQyOFNJdnnmR.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "intriguing",
+        "gripping",
+        "intense"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_1416",
+      "title": "Grey's Anatomy",
+      "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+      "rating": 8.2,
+      "vote_count": 10532,
+      "popularity": 446.9,
+      "first_air_date": "2005-03-27",
+      "last_air_date": "2025-05-15",
+      "number_of_seasons": 22,
+      "number_of_episodes": 447,
+      "episode_runtime": 45,
+      "genres": [
+        "drama"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "ABC"
+      ],
+      "status": "Returning Series",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7jEVqXC14bhfAzSPgr896dMdDv6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fgvM6m7gAd8kDAaLF16aflbOSAK.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/7jEVqXC14bhfAzSPgr896dMdDv6.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "emotional",
+        "gripping"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_1431",
+      "title": "CSI: Crime Scene Investigation",
+      "overview": "A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.",
+      "rating": 7.6,
+      "vote_count": 1292,
+      "popularity": 416.0,
+      "first_air_date": "2000-10-06",
+      "last_air_date": "2015-02-15",
+      "number_of_seasons": 15,
+      "number_of_episodes": 335,
+      "episode_runtime": 45,
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "CBS"
+      ],
+      "status": "Ended",
+      "poster_url": "https://image.tmdb.org/t/p/w500/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "intriguing",
+        "gripping",
+        "intense"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_456",
+      "title": "The Simpsons",
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "rating": 8.0,
+      "vote_count": 10221,
+      "popularity": 337.0,
+      "first_air_date": "1989-12-17",
+      "last_air_date": "2025-05-18",
+      "number_of_seasons": 36,
+      "number_of_episodes": 786,
+      "episode_runtime": 22,
+      "genres": [
+        "family",
+        "animation",
+        "comedy"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "FOX"
+      ],
+      "status": "Returning Series",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/pxeqQX4qFQ0cVxPt5SWZENV5BH3.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "colorful",
+        "imaginative",
+        "feel-good"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_1622",
+      "title": "Supernatural",
+      "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+      "rating": 8.3,
+      "vote_count": 7846,
+      "popularity": 298.7,
+      "first_air_date": "2005-09-13",
+      "last_air_date": "2020-11-19",
+      "number_of_seasons": 15,
+      "number_of_episodes": 327,
+      "episode_runtime": 45,
+      "genres": [
+        "drama",
+        "mystery",
+        "sci-fi & fantasy"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "The WB",
+        "The CW"
+      ],
+      "status": "Ended",
+      "poster_url": "https://image.tmdb.org/t/p/w500/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "emotional",
+        "mysterious",
+        "intriguing"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_4614",
+      "title": "NCIS",
+      "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.",
+      "rating": 7.6,
+      "vote_count": 2364,
+      "popularity": 290.9,
+      "first_air_date": "2003-09-23",
+      "last_air_date": "2025-05-05",
+      "number_of_seasons": 22,
+      "number_of_episodes": 487,
+      "episode_runtime": 45,
+      "genres": [
+        "crime",
+        "drama",
+        "action & adventure"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "CBS"
+      ],
+      "status": "Returning Series",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "gripping",
+        "gritty",
+        "emotional"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_79744",
+      "title": "The Rookie",
+      "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "rating": 8.5,
+      "vote_count": 2484,
+      "popularity": 247.7,
+      "first_air_date": "2018-10-16",
+      "last_air_date": "2025-05-13",
+      "number_of_seasons": 8,
+      "number_of_episodes": 127,
+      "episode_runtime": 45,
+      "genres": [
+        "crime",
+        "drama",
+        "comedy"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "ABC"
+      ],
+      "status": "Returning Series",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2m1Mu0xPj4SikiqkaolTRUcNtWH.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "gripping",
+        "intense",
+        "lighthearted"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_1399",
+      "title": "Game of Thrones",
+      "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+      "rating": 8.5,
+      "vote_count": 25110,
+      "popularity": 243.9,
+      "first_air_date": "2011-04-17",
+      "last_air_date": "2019-05-19",
+      "number_of_seasons": 8,
+      "number_of_episodes": 73,
+      "episode_runtime": 45,
+      "genres": [
+        "sci-fi & fantasy",
+        "drama",
+        "action & adventure"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "HBO"
+      ],
+      "status": "Ended",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "emotional",
+        "gripping"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_31917",
+      "title": "Pretty Little Liars",
+      "overview": "Based on the Pretty Little Liars series of young adult novels by Sara Shepard, the series follows the lives of four girls — Spencer, Hanna, Aria, and Emily — whose clique falls apart after the disappearance of their queen bee, Alison. One year later, they begin receiving messages from someone using the name \"A\" who threatens to expose their secrets — including long-hidden ones they thought only Alison knew.",
+      "rating": 8.0,
+      "vote_count": 2670,
+      "popularity": 237.1,
+      "first_air_date": "2010-06-08",
+      "last_air_date": "2017-06-27",
+      "number_of_seasons": 7,
+      "number_of_episodes": 161,
+      "episode_runtime": 41,
+      "genres": [
+        "drama",
+        "mystery"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "ABC Family",
+        "Freeform"
+      ],
+      "status": "Ended",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yrObh12XoSzRtHRAfHbcVDtkxjn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/hunaEPitjdWsJgqmiIBglySNClr.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/yrObh12XoSzRtHRAfHbcVDtkxjn.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "emotional",
+        "mysterious",
+        "intriguing"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_4057",
+      "title": "Criminal Minds",
+      "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+      "rating": 8.3,
+      "vote_count": 3846,
+      "popularity": 235.5,
+      "first_air_date": "2005-09-22",
+      "last_air_date": "2025-06-12",
+      "number_of_seasons": 18,
+      "number_of_episodes": 354,
+      "episode_runtime": 42,
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "CBS",
+        "Paramount+"
+      ],
+      "status": "Returning Series",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/w88B4ooZ2LSYPw5107JOkjvI8PI.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "intriguing",
+        "gripping",
+        "intense"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_60735",
+      "title": "The Flash",
+      "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
+      "rating": 7.8,
+      "vote_count": 11315,
+      "popularity": 233.3,
+      "first_air_date": "2014-10-07",
+      "last_air_date": "2023-05-24",
+      "number_of_seasons": 9,
+      "number_of_episodes": 184,
+      "episode_runtime": 45,
+      "genres": [
+        "drama",
+        "sci-fi & fantasy"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "The CW"
+      ],
+      "status": "Ended",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "emotional",
+        "gripping"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_44006",
+      "title": "Chicago Fire",
+      "overview": "An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.",
+      "rating": 8.4,
+      "vote_count": 2269,
+      "popularity": 228.5,
+      "first_air_date": "2012-10-10",
+      "last_air_date": "2025-05-07",
+      "number_of_seasons": 13,
+      "number_of_episodes": 274,
+      "episode_runtime": 42,
+      "genres": [
+        "drama"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "NBC"
+      ],
+      "status": "Returning Series",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/rLSe8Qps7A0bwUg6h5CttlHpcKp.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "emotional",
+        "gripping"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_60625",
+      "title": "Rick and Morty",
+      "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+      "rating": 8.7,
+      "vote_count": 10208,
+      "popularity": 221.1,
+      "first_air_date": "2013-12-02",
+      "last_air_date": "2025-06-08",
+      "number_of_seasons": 8,
+      "number_of_episodes": 81,
+      "episode_runtime": 22,
+      "genres": [
+        "animation",
+        "comedy",
+        "sci-fi & fantasy",
+        "action & adventure"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "Adult Swim"
+      ],
+      "status": "Returning Series",
+      "poster_url": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/Ao5pBFuWY32cVuh6iYjEjZMEscN.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "funny",
+        "lighthearted",
+        "colorful"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_17610",
+      "title": "NCIS: Los Angeles",
+      "overview": "The exploits of the Los Angeles–based Office of Special Projects (OSP), an elite division of the Naval Criminal Investigative Service that specializes in undercover assignments.",
+      "rating": 7.5,
+      "vote_count": 1188,
+      "popularity": 216.0,
+      "first_air_date": "2009-09-22",
+      "last_air_date": "2023-05-21",
+      "number_of_seasons": 14,
+      "number_of_episodes": 323,
+      "episode_runtime": 45,
+      "genres": [
+        "action & adventure",
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "CBS"
+      ],
+      "status": "Ended",
+      "poster_url": "https://image.tmdb.org/t/p/w500/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/dAepkmD4vdfhS82r2OIqF1nwGR5.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "intriguing",
+        "intense",
+        "gripping"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_58841",
+      "title": "Chicago P.D.",
+      "overview": "A riveting police drama about the men and women of the Chicago Police Department's District 21 who put it all on the line to serve and protect their community. District 21 is made up of two distinctly different groups: the uniformed cops who patrol the beat and go head-to-head with the city's street crimes and the Intelligence Unit that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond.",
+      "rating": 8.4,
+      "vote_count": 2469,
+      "popularity": 209.8,
+      "first_air_date": "2014-01-08",
+      "last_air_date": "2025-05-21",
+      "number_of_seasons": 12,
+      "number_of_episodes": 243,
+      "episode_runtime": 42,
+      "genres": [
+        "crime",
+        "drama"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "NBC"
+      ],
+      "status": "Returning Series",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2nHdAW7MUMuXMJO6ev0mFMhEq8P.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cFZYtCx54BmFXe4wExts2tPnPHh.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/2nHdAW7MUMuXMJO6ev0mFMhEq8P.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "gripping",
+        "gritty",
+        "emotional"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_2691",
+      "title": "Two and a Half Men",
+      "overview": "A hedonistic jingle writer's free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.",
+      "rating": 7.5,
+      "vote_count": 3407,
+      "popularity": 210.2,
+      "first_air_date": "2003-09-22",
+      "last_air_date": "2015-02-19",
+      "number_of_seasons": 12,
+      "number_of_episodes": 262,
+      "episode_runtime": 45,
+      "genres": [
+        "comedy"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "CBS"
+      ],
+      "status": "Ended",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xgfjxyV3g1S68opzuvG6G87muDp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/coHpOy9OJyFiHWeH36cSHMpLUHC.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/xgfjxyV3g1S68opzuvG6G87muDp.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "funny",
+        "lighthearted"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_1400",
+      "title": "Seinfeld",
+      "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
+      "rating": 8.3,
+      "vote_count": 2122,
+      "popularity": 203.2,
+      "first_air_date": "1989-07-05",
+      "last_air_date": "1998-05-14",
+      "number_of_seasons": 9,
+      "number_of_episodes": 180,
+      "episode_runtime": 45,
+      "genres": [
+        "comedy"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "NBC"
+      ],
+      "status": "Ended",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "funny",
+        "lighthearted"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_46952",
+      "title": "The Blacklist",
+      "overview": "Raymond \"Red\" Reddington, one of the FBI's most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he's made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist. Reddington calls this \"The Blacklist\". Reddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler.",
+      "rating": 7.6,
+      "vote_count": 3292,
+      "popularity": 209.7,
+      "first_air_date": "2013-09-23",
+      "last_air_date": "2023-07-13",
+      "number_of_seasons": 10,
+      "number_of_episodes": 218,
+      "episode_runtime": 45,
+      "genres": [
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "NBC"
+      ],
+      "status": "Ended",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "intriguing",
+        "intense",
+        "gripping"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_1408",
+      "title": "House",
+      "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
+      "rating": 8.6,
+      "vote_count": 6966,
+      "popularity": 197.7,
+      "first_air_date": "2004-11-16",
+      "last_air_date": "2012-05-21",
+      "number_of_seasons": 8,
+      "number_of_episodes": 176,
+      "episode_runtime": 44,
+      "genres": [
+        "drama",
+        "mystery",
+        "comedy"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "FOX"
+      ],
+      "status": "Ended",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "intriguing",
+        "gripping",
+        "mysterious"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_18165",
+      "title": "The Vampire Diaries",
+      "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
+      "rating": 8.3,
+      "vote_count": 9213,
+      "popularity": 198.5,
+      "first_air_date": "2009-09-10",
+      "last_air_date": "2017-03-10",
+      "number_of_seasons": 8,
+      "number_of_episodes": 171,
+      "episode_runtime": 43,
+      "genres": [
+        "drama",
+        "sci-fi & fantasy"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "The CW"
+      ],
+      "status": "Ended",
+      "poster_url": "https://image.tmdb.org/t/p/w500/b3vl6wV1W8PBezFfntKTrhrehCY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/b3vl6wV1W8PBezFfntKTrhrehCY.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "emotional",
+        "gripping"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_37606",
+      "title": "The Amazing World of Gumball",
+      "overview": "The life of Gumball Watterson, a 12-year old cat who attends middle school in Elmore. Accompanied by his pet, adoptive brother, and best friend Darwin Watterson, he frequently finds himself involved in various shenanigans around the city, during which he interacts with various family members: Anais, Richard, and Nicole Watterson, and other various citizens.",
+      "rating": 8.5,
+      "vote_count": 1526,
+      "popularity": 189.0,
+      "first_air_date": "2011-05-03",
+      "last_air_date": "2019-06-24",
+      "number_of_seasons": 7,
+      "number_of_episodes": 266,
+      "episode_runtime": 11,
+      "genres": [
+        "animation",
+        "family",
+        "sci-fi & fantasy",
+        "comedy"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "IE",
+        "GB",
+        "US"
+      ],
+      "networks": [
+        "Cartoon Network",
+        "Hulu"
+      ],
+      "status": "Returning Series",
+      "poster_url": "https://image.tmdb.org/t/p/w500/VYnnyA2hyxi3VUPgCA71mMtt69.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/3PCVo8Wikg4wG6dqZHs4Ofp0laA.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/VYnnyA2hyxi3VUPgCA71mMtt69.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "wholesome",
+        "imaginative",
+        "feel-good"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_655",
+      "title": "Star Trek: The Next Generation",
+      "overview": "Follow the intergalactic adventures of Capt. Jean-Luc Picard and his loyal crew aboard the all-new USS Enterprise NCC-1701D, as they explore new worlds.",
+      "rating": 8.4,
+      "vote_count": 1581,
+      "popularity": 182.3,
+      "first_air_date": "1987-09-28",
+      "last_air_date": "1994-05-23",
+      "number_of_seasons": 7,
+      "number_of_episodes": 176,
+      "episode_runtime": 45,
+      "genres": [
+        "sci-fi & fantasy",
+        "action & adventure",
+        "drama",
+        "mystery"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "Syndication"
+      ],
+      "status": "Ended",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5uxpTGMvH0taHAkMYxOQHYJcsws.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "emotional",
+        "mysterious",
+        "intriguing"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_1911",
+      "title": "Bones",
+      "overview": "Dr. Temperance Brennan and her colleagues at the Jeffersonian's Medico-Legal Lab assist Special Agent Seeley Booth with murder investigations when the remains are so badly decomposed, burned or destroyed that the standard identification methods are useless.",
+      "rating": 8.2,
+      "vote_count": 3277,
+      "popularity": 178.8,
+      "first_air_date": "2005-09-13",
+      "last_air_date": "2017-03-28",
+      "number_of_seasons": 12,
+      "number_of_episodes": 246,
+      "episode_runtime": 45,
+      "genres": [
+        "crime",
+        "drama"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "FOX"
+      ],
+      "status": "Ended",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fefZP8b2gdRKn7llsJ6Yk2m4eey.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "gripping",
+        "gritty",
+        "emotional"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_63401",
+      "title": "We Bare Bears",
+      "overview": "Three brother bears awkwardly attempt to find their place in civilized  society, whether they're looking for food, trying to make human friends,  or scheming to become famous on the internet. Grizzly, Panda and Ice  Bear stack atop one another when they leave their cave and explore the  hipster environs of the San Francisco Bay Area, and it's clear the  siblings have a lot to learn about a technologically driven world. By  their side on many adventures are best friend Chloe (the only human  character in the cast), fame-obsessed panda Nom Nom, and Charlie, aka  Bigfoot.",
+      "rating": 7.7,
+      "vote_count": 1797,
+      "popularity": 167.6,
+      "first_air_date": "2015-08-24",
+      "last_air_date": "2019-05-27",
+      "number_of_seasons": 4,
+      "number_of_episodes": 138,
+      "episode_runtime": 11,
+      "genres": [
+        "family",
+        "comedy",
+        "animation",
+        "kids"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "networks": [
+        "Cartoon Network"
+      ],
+      "status": "Ended",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3xWzlLZ0kAD6SkVZTekFM9lxZyP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sgR3BjAOcpyxV9Rq7l1BGm3fXQ8.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/3xWzlLZ0kAD6SkVZTekFM9lxZyP.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "colorful",
+        "imaginative",
+        "feel-good"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "tmdb_tv_4629",
+      "title": "Stargate SG-1",
+      "overview": "The story of Stargate SG-1 begins about a year after the events of the feature film, when the United States government learns that an ancient alien device called the Stargate can access a network of such devices on a multitude of planets. SG-1 is an elite Air Force special operations team, one of more than two dozen teams from Earth who explore the galaxy and defend against alien threats such as the Goa'uld, Replicators, and the Ori.",
+      "rating": 8.3,
+      "vote_count": 1658,
+      "popularity": 173.0,
+      "first_air_date": "1997-07-27",
+      "last_air_date": "2007-06-22",
+      "number_of_seasons": 10,
+      "number_of_episodes": 214,
+      "episode_runtime": 42,
+      "genres": [
+        "sci-fi & fantasy",
+        "action & adventure",
+        "mystery"
+      ],
+      "original_language": "en",
+      "origin_country": [
+        "CA",
+        "US"
+      ],
+      "networks": [
+        "Showtime",
+        "Syfy"
+      ],
+      "status": "Ended",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mt3SRKq7uRBKVntaBg2ofsDfOdg.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
+      "type": "tv_show",
+      "mood_tags": [
+        "intriguing",
+        "mysterious"
+      ],
+      "platform": "netflix"
+    },
+    {
+      "id": "netflix_orig_001",
+      "title": "Stranger Things",
+      "overview": "A group of kids uncover supernatural mysteries in their small town.",
+      "rating": 8.7,
+      "genres": [
+        "sci-fi",
+        "thriller",
+        "drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+      "thumbnail_url": "https://image.tmdb.org/t/p/w300/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+      "platform": "netflix",
+      "type": "tv_show",
+      "original": true,
+      "mood_tags": [
+        "nostalgic",
+        "suspenseful"
+      ]
+    }
+  ]
+}
