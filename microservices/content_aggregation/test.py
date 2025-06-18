@@ -15,6 +15,7 @@ class UserInteraction(BaseModel):
     content_id: str
     content_type: str
     content_platform: str
+    watchProgress: Optional[float] = 0.0
     context_data: Optional[Dict[str, Any]] = {}
 
 @app.on_event("startup")
@@ -74,6 +75,8 @@ async def tract_interaction_click(interaction: UserInteraction):
             "context_data": interaction.context_data,
             "timestamp": datetime.now()
         }
+        if interaction.watchProgress:
+            interaction_doc["watchProgress"] = interaction.watchProgress
         print(interaction_doc)
         firetv = client.get_database("firetv_content")
         user_interaction = firetv.get_collection("user_interaction")
