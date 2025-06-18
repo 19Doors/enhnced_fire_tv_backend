@@ -66,6 +66,7 @@ def contentHotstar():
 @app.post("/track-interaction")
 async def tract_interaction_click(interaction: UserInteraction):
     try:
+        print(interaction.watchProgress)
         interaction_doc = {
             "user_id": interaction.user_id,
             "event_type": interaction.interaction_type,
@@ -75,7 +76,7 @@ async def tract_interaction_click(interaction: UserInteraction):
             "context_data": interaction.context_data,
             "timestamp": datetime.now()
         }
-        if interaction.watchProgress:
+        if (interaction.watchProgress > 0):
             interaction_doc["watchProgress"] = interaction.watchProgress
         print(interaction_doc)
         firetv = client.get_database("firetv_content")
