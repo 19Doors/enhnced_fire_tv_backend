@@ -76,7 +76,7 @@ async def tract_interaction_click(interaction: UserInteraction):
             "context_data": interaction.context_data,
             "timestamp": datetime.now()
         }
-        if (interaction.watchProgress > 0):
+        if interaction.interaction_type == "watch":
             interaction_doc["watchProgress"] = interaction.watchProgress
         print(interaction_doc)
         firetv = client.get_database("firetv_content")
