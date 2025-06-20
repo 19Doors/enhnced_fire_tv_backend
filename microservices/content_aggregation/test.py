@@ -66,7 +66,6 @@ def contentHotstar():
 @app.post("/track-interaction")
 async def tract_interaction_click(interaction: UserInteraction):
     try:
-        print(interaction.watchProgress)
         interaction_doc = {
             "user_id": interaction.user_id,
             "event_type": interaction.interaction_type,

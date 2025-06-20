@@ -79,18 +79,6 @@ services:
     ports:
       - 6379:6379
 
-  postgresql:
-    image: postgres:latest
-    container_name: firetv-postgresql
-    ports:
-      - "5432:5432"
-    environment:
-      POSTGRES_PASSWORD: foo
-    volumes:
-      - postgres_data:/var/lib/postgresql/data
-    networks:
-      - tyk
-
   content-aggregation:
     build: ./microservices/content_aggregation
     environment:
@@ -102,9 +90,19 @@ services:
     networks:
       - tyk
 
+  # social-viewing:
+  #   build: ./microservices/social_viewing 
+  #   ports:
+  #     - "3002:3002"
+  #   depends_on:
+  #     - content-aggregation 
+  #     - tyk-gateway
+  #     - tyk-redis
+  #   networks:
+  #     - tyk
+
 
 volumes:
-  postgres_data:
   mongodb_data:
 
 networks:
