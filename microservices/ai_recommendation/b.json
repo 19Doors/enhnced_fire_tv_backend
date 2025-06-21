@@ -1,0 +1,30 @@
+{
+  "total_interactions": 29,
+  "event_type_counts": {
+    "click": 18,
+    "like": 9,
+    "watch": 1,
+    "dislike": 1
+  },
+  "avg_watch_progress": 5.5413105413105415,
+  "preferred_genres": {
+    "romance": 12.941310541310541,
+    "drama": 10.141310541310542,
+    "sci-fi & fantasy": 0.2,
+    "action & adventure": 0.2,
+    "mystery": 1.2000000000000002,
+    "action": 1.4000000000000001,
+    "comedy": 3.0,
+    "science fiction": 2.4000000000000004,
+    "adventure": 0.4,
+    "thriller": 2.2,
+    "crime": 1.2,
+    "horror": 1.0
+  },
+  "preferred_platforms": {
+    "netflix": 6.941310541310542,
+    "prime_video": 6.0,
+    "hotstar": 3.4000000000000004
+  },
+  "overall_engagement_score": 0.53935553590726
+}

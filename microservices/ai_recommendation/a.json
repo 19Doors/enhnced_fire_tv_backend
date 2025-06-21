@@ -1,0 +1,124 @@
+[
+  {
+    "content_id": "tmdb_movie_1294203",
+    "title": "My Fault: London",
+    "platform": "hotstar",
+    "genres": [
+      "romance",
+      "drama"
+    ],
+    "rating": 7.4,
+    "similarity_score": 0.3742868999917734,
+    "reason": "Something new to explore (similarity: 0.37)"
+  },
+  {
+    "content_id": "tmdb_movie_1442532",
+    "title": "Sticky",
+    "platform": "hotstar",
+    "genres": [
+      "romance"
+    ],
+    "rating": 7.6,
+    "similarity_score": 0.183402531350828,
+    "reason": "Something new to explore (similarity: 0.18)"
+  },
+  {
+    "content_id": "tmdb_movie_829557",
+    "title": "365 Days: This Day",
+    "platform": "hotstar",
+    "genres": [
+      "romance",
+      "drama"
+    ],
+    "rating": 5.9,
+    "similarity_score": 0.1328016509460732,
+    "reason": "Something new to explore (similarity: 0.13)"
+  },
+  {
+    "content_id": "tmdb_movie_1165642",
+    "title": "Lost in Starlight",
+    "platform": "hotstar",
+    "genres": [
+      "animation",
+      "romance",
+      "science fiction"
+    ],
+    "rating": 7.5,
+    "similarity_score": 0.11682867208903504,
+    "reason": "Something new to explore (similarity: 0.12)"
+  },
+  {
+    "content_id": "tmdb_movie_1318856",
+    "title": "An Endless Wedding",
+    "platform": "hotstar",
+    "genres": [
+      "comedy",
+      "romance",
+      "fantasy"
+    ],
+    "rating": 4.6,
+    "similarity_score": 0.1126267955983343,
+    "reason": "Something new to explore (similarity: 0.11)"
+  },
+  {
+    "content_id": "tmdb_movie_271718",
+    "title": "Trainwreck",
+    "platform": "hotstar",
+    "genres": [
+      "comedy",
+      "romance"
+    ],
+    "rating": 5.8,
+    "similarity_score": 0.1096485906933581,
+    "reason": "Something new to explore (similarity: 0.11)"
+  },
+  {
+    "content_id": "tmdb_movie_321612",
+    "title": "Beauty and the Beast",
+    "platform": "hotstar",
+    "genres": [
+      "family",
+      "fantasy",
+      "romance"
+    ],
+    "rating": 7.0,
+    "similarity_score": 0.10596101599467234,
+    "reason": "Something new to explore (similarity: 0.11)"
+  },
+  {
+    "content_id": "tmdb_movie_1252309",
+    "title": "Ask Me What You Want",
+    "platform": "hotstar",
+    "genres": [
+      "romance",
+      "drama"
+    ],
+    "rating": 6.2,
+    "similarity_score": 0.10406723531144363,
+    "reason": "Something new to explore (similarity: 0.10)"
+  },
+  {
+    "content_id": "tmdb_movie_597",
+    "title": "Titanic",
+    "platform": "hotstar",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "rating": 7.9,
+    "similarity_score": 0.1000020364328675,
+    "reason": "Something new to explore (similarity: 0.10)"
+  },
+  {
+    "content_id": "tmdb_tv_46441",
+    "title": "Tyler Perry's The Haves and the Have Nots",
+    "platform": "hotstar",
+    "genres": [
+      "soap",
+      "drama"
+    ],
+    "rating": 7.5,
+    "similarity_score": 0.09874286527225398,
+    "reason": "Something new to explore (similarity: 0.10)"
+  }
+]
