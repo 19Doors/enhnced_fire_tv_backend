@@ -1,0 +1,38 @@
+{
+  "user_id": "01",
+  "temporal_patterns": {
+    "night": {
+      "top_genres": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "genre_scores": {
+        "animation": 0.19579288025889968,
+        "family": 0.19579288025889968,
+        "comedy": 0.19579288025889968
+      },
+      "diversity_score": 6
+    }
+  },
+  "peak_viewing_time": "night",
+  "preferred_genres_by_time": {
+    "morning": {},
+    "afternoon": {},
+    "evening": {},
+    "night": {
+      "animation": 0.19579288025889968,
+      "family": 0.19579288025889968,
+      "comedy": 0.19579288025889968,
+      "adventure": 0.13754045307443363,
+      "action": 0.13754045307443363,
+      "science fiction": 0.13754045307443363
+    }
+  },
+  "interaction_counts_by_time": {
+    "morning": 0,
+    "afternoon": 0,
+    "evening": 0,
+    "night": 5
+  }
+}

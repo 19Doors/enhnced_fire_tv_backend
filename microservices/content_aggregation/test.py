@@ -1,11 +1,15 @@
-import json
 import os
 from typing import Any, Dict, Optional
 import fastapi
 from datetime import datetime, time
 import pymongo
 from pydantic import BaseModel
+import json
+from kafka_content import RecommendationProducer
 
+
+producer = RecommendationProducer()
+print("Producer Loaded")
 client = None
 app = fastapi.FastAPI()
 # Pydantic model for request validation
@@ -18,9 +22,13 @@ class UserInteraction(BaseModel):
     watchProgress: Optional[float] = 0.0
     context_data: Optional[Dict[str, Any]] = {}
 
+class Recommendation(BaseModel):
+    user_id: str
+
 @app.on_event("startup")
 async def startup_event():
     mongo_url = os.getenv("MONGO_URL")
+    # mongo_url = os.getenv("mongodb://firetv:password@34.47.135.240:27017")
     """Initialize MongoDB client when server starts"""
     global client
     try:
@@ -28,7 +36,7 @@ async def startup_event():
         client = pymongo.MongoClient(mongo_url)
         client.admin.command('ping')
         print("✅ MongoDB client connected successfully")
-        
+
     except Exception as e:
         print(f"❌ Failed to connect to MongoDB: {e}")
         raise e
@@ -63,6 +71,35 @@ def contentHotstar():
     hotstarContent = hotstarO['content']
     return {"content": hotstarContent}
 
+@app.post("/getRecommendation")
+def contentRecommended(req: Recommendation):
+    try: 
+        col = client.get_database("firetv_content").get_collection(f"user_{req.user_id}_recommendations")
+        content_all = client.get_database("firetv_content").get_collection("content")
+        cursor = col.find({})
+
+        content = []
+        for doc in cursor:
+            if '_id' in doc:
+                doc['_id'] = str(doc['_id'])
+            content.append(doc)
+
+        ans = []
+        real_return = []
+        for i in content:
+            content_id = i['content_id']
+            fetch_content = content_all.find_one({'id':content_id})
+            ans.append(fetch_content)
+
+        for doc in ans:
+            if '_id' in doc:
+                doc['_id'] = str(doc['_id'])
+            real_return.append(doc)
+
+        return {"content": real_return}
+
+    except Exception as e:
+        return {"ERROR": e}
 @app.post("/track-interaction")
 async def tract_interaction_click(interaction: UserInteraction):
     try:
@@ -77,9 +114,10 @@ async def tract_interaction_click(interaction: UserInteraction):
         }
         if interaction.interaction_type == "watch":
             interaction_doc["watchProgress"] = interaction.watchProgress
-        print(interaction_doc)
         firetv = client.get_database("firetv_content")
         user_interaction = firetv.get_collection("user_interaction")
+        print(interaction_doc)
+        producer.send_for_recommendation(user_id=interaction.user_id)
         result = user_interaction.insert_one(interaction_doc)
         return {"status":"success", "interaction_id": str(result.inserted_id)}
     except Exception as e:

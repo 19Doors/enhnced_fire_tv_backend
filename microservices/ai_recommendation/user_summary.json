@@ -1,0 +1,26 @@
+{
+  "total_interactions": 5,
+  "event_type_counts": {
+    "click": 2,
+    "watch": 3
+  },
+  "avg_watch_progress": 0.02225463188030033,
+  "preferred_genres": {
+    "animation": 0.23921568627450981,
+    "family": 0.23921568627450981,
+    "comedy": 0.23921568627450981,
+    "adventure": 0.2275482093663912,
+    "action": 0.2275482093663912,
+    "science fiction": 0.2275482093663912
+  },
+  "preferred_platforms": {
+    "netflix": 0.4667638956409009
+  },
+  "overall_engagement_score": 0.09335277912818019,
+  "temporal_activity": {
+    "morning": 0,
+    "afternoon": 0,
+    "evening": 0,
+    "night": 5
+  }
+}

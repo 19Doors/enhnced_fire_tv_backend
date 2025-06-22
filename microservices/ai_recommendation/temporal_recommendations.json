@@ -10,11 +10,11 @@
       "adventure"
     ],
     "rating": 7.1,
-    "similarity_score": 0.27763423029886264,
+    "similarity_score": 0.30077041615710115,
     "base_similarity": 0.27763423029886264,
-    "temporal_boost": 1.0,
-    "time_context": "morning",
-    "reason": "Perfect for your morning routine - Something new to explore"
+    "temporal_boost": 1.0833333333333333,
+    "time_context": "night",
+    "reason": "Matches your night preference for family, science fiction"
   },
   {
     "content_id": "tmdb_movie_20760",
@@ -27,11 +27,11 @@
       "science fiction"
     ],
     "rating": 6.7,
-    "similarity_score": 0.25874623390188856,
+    "similarity_score": 0.2821924945790823,
     "base_similarity": 0.25874623390188856,
-    "temporal_boost": 1.0,
-    "time_context": "morning",
-    "reason": "Perfect for your morning routine - Something new to explore"
+    "temporal_boost": 1.0906148867313914,
+    "time_context": "night",
+    "reason": "Matches your night preference for animation, family"
   },
   {
     "content_id": "tmdb_movie_348350",
@@ -43,11 +43,11 @@
       "action"
     ],
     "rating": 6.6,
-    "similarity_score": 0.14583553111687209,
+    "similarity_score": 0.1558646736289547,
     "base_similarity": 0.14583553111687209,
-    "temporal_boost": 1.0,
-    "time_context": "morning",
-    "reason": "Perfect for your morning routine - Something new to explore"
+    "temporal_boost": 1.0687702265372168,
+    "time_context": "night",
+    "reason": "Matches your night preference for science fiction, adventure"
   },
   {
     "content_id": "tmdb_movie_181812",
@@ -59,11 +59,11 @@
       "science fiction"
     ],
     "rating": 6.3,
-    "similarity_score": 0.11352123485990889,
+    "similarity_score": 0.12132811589800942,
     "base_similarity": 0.11352123485990889,
-    "temporal_boost": 1.0,
-    "time_context": "morning",
-    "reason": "Perfect for your morning routine - Something new to explore"
+    "temporal_boost": 1.0687702265372168,
+    "time_context": "night",
+    "reason": "Matches your night preference for adventure, action"
   },
   {
     "content_id": "tmdb_movie_580988",
@@ -75,11 +75,11 @@
       "adventure"
     ],
     "rating": 8.8,
-    "similarity_score": 0.09331837337365928,
+    "similarity_score": 0.10154790630062437,
     "base_similarity": 0.09331837337365928,
-    "temporal_boost": 1.0,
-    "time_context": "morning",
-    "reason": "Perfect for your morning routine - Something new to explore"
+    "temporal_boost": 1.088187702265372,
+    "time_context": "night",
+    "reason": "Matches your night preference for animation, family"
   },
   {
     "content_id": "tmdb_movie_482321",
@@ -92,11 +92,11 @@
       "comedy"
     ],
     "rating": 7.9,
-    "similarity_score": 0.09024285962338958,
+    "similarity_score": 0.09842020612647989,
     "base_similarity": 0.09024285962338958,
-    "temporal_boost": 1.0,
-    "time_context": "morning",
-    "reason": "Perfect for your morning routine - Something new to explore"
+    "temporal_boost": 1.0906148867313914,
+    "time_context": "night",
+    "reason": "Matches your night preference for animation, science fiction"
   },
   {
     "content_id": "tmdb_movie_666154",
@@ -108,11 +108,11 @@
       "family"
     ],
     "rating": 7.7,
-    "similarity_score": 0.08853189683267097,
+    "similarity_score": 0.0963393213915392,
     "base_similarity": 0.08853189683267097,
-    "temporal_boost": 1.0,
-    "time_context": "morning",
-    "reason": "Perfect for your morning routine - Something new to explore"
+    "temporal_boost": 1.088187702265372,
+    "time_context": "night",
+    "reason": "Matches your night preference for adventure, animation"
   },
   {
     "content_id": "tmdb_movie_1184918",
@@ -124,11 +124,11 @@
       "family"
     ],
     "rating": 8.3,
-    "similarity_score": 0.08459417437241433,
+    "similarity_score": 0.09205434023535378,
     "base_similarity": 0.08459417437241433,
-    "temporal_boost": 1.0,
-    "time_context": "morning",
-    "reason": "Perfect for your morning routine - Something new to explore"
+    "temporal_boost": 1.088187702265372,
+    "time_context": "night",
+    "reason": "Matches your night preference for animation, science fiction"
   },
   {
     "content_id": "tmdb_movie_283995",
@@ -140,11 +140,11 @@
       "action"
     ],
     "rating": 7.6,
-    "similarity_score": 0.08267889599714198,
+    "similarity_score": 0.08836474240471243,
     "base_similarity": 0.08267889599714198,
-    "temporal_boost": 1.0,
-    "time_context": "morning",
-    "reason": "Perfect for your morning routine - Something new to explore"
+    "temporal_boost": 1.0687702265372168,
+    "time_context": "night",
+    "reason": "Matches your night preference for science fiction, adventure"
   },
   {
     "content_id": "tmdb_tv_656",
@@ -156,10 +156,10 @@
       "kids"
     ],
     "rating": 7.1,
-    "similarity_score": 0.08068871622134816,
+    "similarity_score": 0.08595480827247175,
     "base_similarity": 0.08068871622134816,
-    "temporal_boost": 1.0,
-    "time_context": "morning",
-    "reason": "Perfect for your morning routine - Something new to explore"
+    "temporal_boost": 1.0652642934196332,
+    "time_context": "night",
+    "reason": "Matches your night preference for animation, family"
   }
 ]
