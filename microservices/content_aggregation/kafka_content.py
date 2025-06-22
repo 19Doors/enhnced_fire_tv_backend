@@ -28,9 +28,9 @@ class RecommendationProducer:
                     }
             # self.producer.send('user_interaction_ai', key=)
             future = self.producer.send('user_interaction_ai', key=user_id, value=message)
-            # self.producer.flush(timeout=10)
+            self.producer.flush(timeout=10)
 
-            result = future.get(timeout=10)
+            # result = future.get(timeout=10)
             print("message sent successfully")
             return True
 

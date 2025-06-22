@@ -1,5 +1,6 @@
 from kafka import KafkaConsumer
 import json
+from gemini import get_personal_recommendations
 from recommendationEngine import TemporalRecommendationEngine
 
 def recommend_kafka(topic_name):
@@ -10,7 +11,7 @@ def recommend_kafka(topic_name):
     consumer = KafkaConsumer(
         bootstrap_servers=['kafka:9092'],
         group_id='my-consumer-group',
-        auto_offset_reset='latest',
+        auto_offset_reset='earliest',
         enable_auto_commit=True,
         value_deserializer=lambda x: x.decode('utf-8') if x else None
     )
@@ -35,6 +36,9 @@ def recommend_kafka(topic_name):
                     mes = json.loads(message.value)
                     user_id = mes['user_id']
                     print(engine.get_temporal_recommendations(user_id, num_recommendations=10))
+                    request = {}
+                    request['user_id']=user_id
+                    request['num_recommendations']=10
                 
     except KeyboardInterrupt:
         print("Consumer interrupted", flush=True)
