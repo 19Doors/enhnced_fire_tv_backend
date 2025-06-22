@@ -25,7 +25,7 @@ def recommend_kafka(topic_name):
             message_pack = consumer.poll(timeout_ms=1000)
             
             if not message_pack:
-                # print("No messages received, continuing...", flush=True)
+                print("No messages received, continuing...", flush=True)
                 continue
                 
             for topic_partition, messages in message_pack.items():
