@@ -29,7 +29,7 @@ A sophisticated microservices-based backend for Fire TV that provides temporal-a
 │                 │    │                 │    │                 │
 │ • Netflix API   │    │ • Temporal AI   │    │ • WebSockets    │
 │ • Prime Video   │    │ • Cosine Sim    │    │ • Virtual Rooms │
-│ • Hotstar       │    │ • Real-time ML  │    │ • Live Chat     │
+│ • Hotstar       │    │ • Real-time ML  │    │                 │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
          │                       │                       │
          └───────────────────────┼───────────────────────┘
