@@ -61,7 +61,7 @@ A sophisticated microservices-based backend for Fire TV that provides temporal-a
 - **Containerization**: Docker, Docker Compose
 - **API Gateway**: Tyk (for production)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 19doors-enhnced_fire_tv_backend/
@@ -83,7 +83,7 @@ A sophisticated microservices-based backend for Fire TV that provides temporal-a
         └── social_viewing.py       # WebSocket-based virtual rooms
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Docker and Docker Compose
@@ -115,7 +115,7 @@ docker-compose ps
 - **AI Recommendation**: `http://localhost:3002`
 - **Social Viewing**: `http://localhost:3003`
 
-## 🤖 AI Recommendation Engine
+## AI Recommendation Engine
 
 ### Temporal Intelligence Features
 
@@ -142,7 +142,7 @@ docker-compose ps
 }
 ```
 
-## 📊 Data Models
+## Data Models
 
 ### User Interaction Event
 ```json
@@ -186,14 +186,14 @@ docker-compose ps
 - `content`: Aggregated content from all platforms
 - `user_interactions`: Real-time user behavior events
 
-## 📈 Performance Metrics
+## Performance Metrics
 
 - **Recommendation Generation**: <100ms response time
 - **Event Processing**: 50,000+ interactions/second
 - **Concurrent Users**: 1M+ supported
 - **AI Model Accuracy**: 85%+ temporal preference prediction
 
-## 🔮 Advanced Features
+## Advanced Features
 
 ### Kafka Event Streaming
 - Real-time user interaction processing
