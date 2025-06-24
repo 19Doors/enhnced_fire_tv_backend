@@ -36,9 +36,6 @@ def recommend_kafka(topic_name):
                     mes = json.loads(message.value)
                     user_id = mes['user_id']
                     print(engine.get_temporal_recommendations(user_id, num_recommendations=10))
-                    request = {}
-                    request['user_id']=user_id
-                    request['num_recommendations']=10
                 
     except KeyboardInterrupt:
         print("Consumer interrupted", flush=True)
